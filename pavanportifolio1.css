@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.modalcontact_image {
+    width: 100px;
+}
+
+.home-sec-heading {
+    font-family: "Bree Serif";
+    font-weight: bold;
+    margin-top: 80px;
+}
+
+.name {
+    font-family: "Roboto";
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.phone-number {
+    font-size: 15px;
+}
+
+.contact-me-button {
+    background-color: transparent;
+    border-radius: 5px;
+    border: 2px solid;
+    font-size: 15px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.About-me-heading {
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+
+.About-me-image {
+    height: 300px;
+    width: 350px;
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+.my-objective-heading {
+    color: #236b69;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.my-objective-description {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.objective-points {
+    font-size: 20px;
+}
+
+.skills-image {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.projects-image {
+    width: 80%;
+    margin-bottom: 40px;
+}
+
+.span-el {
+    color: #131359;
+    font-weight: bold;
+}
